@@ -7,7 +7,7 @@ These loan variables include:
 * The loan amount.
 * The borrower rate (or interest rate).
 * The status of the loan.
-* The borrower"s stated monthy income and many others available [here](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0).
+* Each borrower's stated monthy income and many others available [here](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0).
 
 
 
