@@ -24,6 +24,7 @@ These loan variables include:
 * Loan terms were mostly not related to the risk factors, Estimated yield or APR but just slightly postively dependent on the loan amount.
 * Almost all borrowers regardless of Employment status often times preferred taking longer term loans with most of the loans falling in the 36 month term category. Retired borrowers and part-time employed borrowers also had a very stong affinity for 60 months loans.
 
+# [CLICK FOR THE SLIDE PRESENTATION](https://github.com/stanleyjoe33/Prosper-Loans-Data-Analysis/blob/8c6815fe16e7472df6d1e663f80a557080149485/Part_II_slide_deck_template.slides.html)
 
 ## Key Insights for Presentation
 For the presentation, I  would focus mainly on the apparent lending patterns of the company and how these may be related to peculiarities discovered in borrower profiles. I would start by introducing the distribution of their loan listings as per status, Listing category (reason for the loan) and Loan Terms followed by important variables regarding borrower profiles like their Employment status and Borrowers' APRs.
