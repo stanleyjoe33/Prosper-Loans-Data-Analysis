@@ -44,5 +44,5 @@ To further investigate any potential relationships, I  analyzed the Prosper rati
 Finally, I  presented a facet grid showing the interaction between loan amount, borrower APR, loan term, and employment status. This  provided a visual representation of how these variables might have affectrd each other.
  
 
-# [ CLICK FOR SUMMARY REPORT](https://github.com/stanleyjoe33/Prosper-Loans-Data-Analysis/blob/d5287d1023fa4769fcb01cedc49a9139c36b5010/Prosper%20Loans.pdf)
+## [ CLICK FOR SUMMARY REPORT PRESENTATION](https://github.com/stanleyjoe33/Prosper-Loans-Data-Analysis/blob/d5287d1023fa4769fcb01cedc49a9139c36b5010/Prosper%20Loans.pdf)
 
