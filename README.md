@@ -2,7 +2,7 @@
 ## by Joseph Stanley
 
 ## Introduction
-This data set contains 113,937 loan listings by a loan company Prosper with 81 variables on each loan which are uniquely identified by a listing Key and are stored on Udacity's server.  
+The data set contained 113,937 loan listings by a loan company Prosper with 81 variables on each loan which were uniquely identified by a listing Key and are stored on Udacity's server.  
 These loan variables include:
 * The loan amount.
 * The borrower rate (or interest rate).
@@ -11,22 +11,38 @@ These loan variables include:
 
 
 
-## Summary of Findings
+##  Summary of Findings:
 
-* Most of the loans listed in the timeframe were currently being serviced then with about 38,000 loans already completed with 77% of them listed on 36 month Terms.
-* A very large fraction of the loans (close to 60,000) were obtained for debt consolidation and most of the loans were given out in multi thousand Dollar round figures.
-* The average borrowers APR(Total annual  to be payed by borrowers in percentage) had a normal distribution that is skewed to the right with a mode at around 0.36%.
-* The top 10 borrowers were mostly corporate workers while least loan takers were students at different levels.
-* The average ststed income for the borrowers was about 5,000 dollars with a significant number of borrowers stating 0USD as their monthly income.
-* loans with Positive Estimated returns loans were very inclusive of low risk borrowers as well as high risk borrowers while the Negative return loans were always associated with very high risk borrowers.
-* Loans given out in higer amounts were oftentimes assigned lower annual payment rates.
-* High risk borrowers were often tasked with higher APRs.
-* Loan terms were mostly not related to the risk factors, Estimated yield or APR but just slightly postively dependent on the loan amount.
-* Almost all borrowers regardless of Employment status often times preferred taking longer term loans with most of the loans falling in the 36 month term category. Retired borrowers and part-time employed borrowers also had a very stong affinity for 60 months loans.
+* Most of the loans listed in the timeframe were being serviced at the time of analysis, with around 38,000 loans already completed, the majority of which had 36-month terms.
 
-# [SUMMARY REPORT](https://github.com/stanleyjoe33/Prosper-Loans-Data-Analysis/blob/d5287d1023fa4769fcb01cedc49a9139c36b5010/Prosper%20Loans.pdf)
+* A significant portion of the loans (nearly 60,000) were obtained for debt consolidation, and many of the loans were given in round-figure dollar amounts.
+
+* The distribution of average borrower APRs was skewed to the right, with a mode around 0.36%.
+
+* The top 10 borrowers were mostly corporate workers, while students at various levels were among the least likely to take out loans.
+
+* The average stated income for borrowers was around $5,000, but a significant number of borrowers stated $0 as their monthly income.
+
+* Loans with positive estimated returns included both low-risk and high-risk borrowers, while negative return loans were associated with very high-risk borrowers.
+
+* Loans given in higher amounts were often assigned lower annual payment rates.
+
+* High-risk borrowers were often assigned higher APRs.
+
+* Loan terms were only slightly positively correlated with loan amount and not significantly related to risk factors, estimated yield, or APR.
+
+* Most borrowers, regardless of employment status, preferred longer-term loans, with the majority falling into the 36-month category. Retired borrowers and part-time employed borrowers also showed a strong preference for 60-month loans.
+
 
 ## Key Insights for Presentation
-For the presentation, I  would focus mainly on the apparent lending patterns of the company and how these may be related to peculiarities discovered in borrower profiles. I would start by introducing the distribution of their loan listings as per status, Listing category (reason for the loan) and Loan Terms followed by important variables regarding borrower profiles like their Employment status and Borrowers' APRs.
-To check for relationships, the prosper rating which is the company's risk analysis of the borrowers would  be examined with reference to their Estimated Returns for those that have  Negative and  Postive values respectively. 
-Finally a Facet Grid of Loan Amount vs Borrower APR by Loan Term and Employment Status to show how these four variables interact.
+For the presentation, I focused on the apparent lending patterns of the company and how these may have  been related to peculiarities discovered in borrower profiles. I will began by introducing the distribution of the company's loan listings according to status, listing category (reason for the loan), and loan terms.
+
+Next, I  examined variables related to borrower profiles, such as employment status and borrowers' annual percentage rates (APRs), and how they affected the company's lending patterns.
+
+To further investigate any potential relationships, I  analyzed the Prosper rating, which was the company's risk assessment of the borrowers, in relation to the estimated returns for borrowers with negative and positive values, respectively.
+
+Finally, I  presented a facet grid showing the interaction between loan amount, borrower APR, loan term, and employment status. This  provided a visual representation of how these variables might have affectrd each other.
+ 
+
+# [ CLICK FOR SUMMARY REPORT](https://github.com/stanleyjoe33/Prosper-Loans-Data-Analysis/blob/d5287d1023fa4769fcb01cedc49a9139c36b5010/Prosper%20Loans.pdf)
+
