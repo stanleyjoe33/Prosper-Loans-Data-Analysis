@@ -8,6 +8,11 @@ These loan variables include:
 * The borrower rate (or interest rate).
 * The status of the loan.
 * Each borrower's stated monthy income and many others available [here](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0).
+## Summary of Methodology
+
+The investigation was focused on determining the extent to which the company's loan amounts were correlated with borrower characteristics, such as credit score, employment status, and other risk factors. The data consisted of 118,000 loan listings, which were first cleaned and classified by loan status, listing category, and loan terms. Additionally, variables regarding borrower profiles, including employment status and borrower APRs, were extracted for analysis.
+To examine the relationships between these variables, the company's own risk analysis of the borrowers, known as the Prosper Rating, was analyzed in relation to the estimated returns for borrowers with positive and negative values. Finally, a facet grid was created to display the interaction between loan amount, borrower APR, loan term, and employment status.
+Overall, data analysis was employed to understand the factors that influence the company's loan decisions and assess any potential correlations with borrower characteristics."
 
 
 
